@@ -2,5 +2,8 @@ uses maturin and Pyo3
 
 run from \rustpython
 
+make sure to activate python virtual enviro. with:
 >> \.venv\Scripts\activate.bat
+
+run with:
 >> python test.py
