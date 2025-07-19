@@ -1,0 +1,6 @@
+uses maturin and Pyo3
+
+run from \rustpython
+
+>> \.venv\Scripts\activate.bat
+>> python test.py
